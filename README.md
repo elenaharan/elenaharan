@@ -3,8 +3,7 @@ and I am really excited to collaborate with others, build some amazing projects 
 - 👀 I’m interested in learning a new programming language, deepening my understanding of the whole programming eco system and meeting some amazing programmers that I can learn from.
 - 🌱 I’m currently learning front-end and back-end JavaScript and all its frameworks. I really enjoyed working with Angular, and I am hoping to take my Angular skills to the new level.
 - 💞️ I’m looking to collaborate on any amazing projects with a good cause, even if it is outside of the scope of work I am familiar with, as I am willing to study intensively.
-- 📫 How to reach me: Feel free to reach out by email - elenaharan@gmail.com - or connect with me through LinkedIn - https://www.linkedin.com/in/elenaharan/.
-I'd be happy to hear from you!
+- 📫 How to reach me: Feel free to reach me through LinkedIn - https://www.linkedin.com/in/elenaharan/.
 
 <!---
 elenaharan/elenaharan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
