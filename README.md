@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elenaharan, and I am a freshly certified full-stack web developer. I have recently completed a 9 month immersive web development course with CareerFounry, 
+- 👋 Hi, I’m @elenaharan, and I am a certified full-stack web developer. I have recently completed a 9 month immersive web development course with CareerFounry, 
 and I am really excited to collaborate with others, build some amazing projects and learn about new tools along the way.
 - 👀 I’m interested in learning a new programming language, deepening my understanding of the whole programming eco system and meeting some amazing programmers that I can learn from.
 - 🌱 I’m currently learning front-end and back-end JavaScript and its frameworks.
